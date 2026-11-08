@@ -1,0 +1,19 @@
+# Local build outputs
+build/
+*.o
+*.d
+*.elf
+*.3dsx
+*.cia
+*.map
+*.smdh
+*.bnr
+*.icn
+
+# Local tools are not redistributed
+tools/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
